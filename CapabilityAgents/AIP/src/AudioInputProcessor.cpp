@@ -23,7 +23,9 @@
 #include <AVSCommon/Utils/Memory/Memory.h>
 #include <AVSCommon/Utils/Metrics.h>
 #include <AVSCommon/Utils/UUIDGeneration/UUIDGeneration.h>
+
 #include <AVSCommon/AVS/Attachment/AttachmentUtils.h>
+#include <MediaPlayer/include/MediaPlayer.h>
 
 #include "AIP/AudioInputProcessor.h"
 
